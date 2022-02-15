@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Quiz 1
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-003j-dynamics-and-vibration-13-013j-fall-2002/951920fe769b7c662fa6ab63875a5752_quiz1.pdf
+file: /media/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/951920fe769b7c662fa6ab63875a5752_quiz1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz1.pdf
 uid: 951920fe-769b-7c66-2fa6-ab63875a5752
