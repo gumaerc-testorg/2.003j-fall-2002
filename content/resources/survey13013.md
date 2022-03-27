@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: bd4e8fde-f91f-5ba5-d4a2-c146d08dd683
 resourcetype: Document
 title: survey13013.pdf
 uid: fbf855f7-622f-b38b-2770-a28092756ee4
