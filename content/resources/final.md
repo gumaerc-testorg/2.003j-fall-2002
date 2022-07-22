@@ -5,6 +5,7 @@ file: /courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/c1f23c1e308568219
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final.pdf
 uid: c1f23c1e-3085-6821-9213-ec4c045e4186
 ---
 Dynamics Quiz 3
-

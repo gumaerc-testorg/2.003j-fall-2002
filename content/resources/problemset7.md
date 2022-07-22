@@ -5,6 +5,7 @@ file: /courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/07130ff7ca04a1071
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: problemset7.pdf
 uid: 07130ff7-ca04-a107-11d7-5deec858f335
 ---
 Problem Set 7
-
