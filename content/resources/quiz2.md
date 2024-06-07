@@ -2,6 +2,7 @@
 content_type: resource
 description: Quiz II
 file: /courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/77a019e41d961baeed074f4a89bccdd8_quiz2.pdf
+file_size: 406746
 file_type: application/pdf
 learning_resource_types:
 - Exams

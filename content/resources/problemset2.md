@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem Set 2
 file: /courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/1b1326939202334a9e0d623accaea986_problemset2.pdf
+file_size: 61677
 file_type: application/pdf
 learning_resource_types:
 - Assignments

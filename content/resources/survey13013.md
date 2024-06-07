@@ -2,6 +2,7 @@
 content_type: resource
 description: Mid-Term Survey
 file: /courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/fbf855f7622fb38b2770a28092756ee4_survey13013.pdf
+file_size: 6543
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
