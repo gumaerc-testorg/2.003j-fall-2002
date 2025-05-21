@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 3
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/ad909ccd4b41976df7b274b60466a551_problemset3.pdf
+file: /courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/ad909ccd4b41976df7b274b60466a551_problemset3.pdf
 file_size: 63534
 file_type: application/pdf
 learning_resource_types:
