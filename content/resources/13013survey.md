@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Prerequisite Survey and Questionnaire
-file: /courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/15a1aa6438970acd47b0757793236145_13013survey.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/15a1aa6438970acd47b0757793236145_13013survey.pdf
 file_size: 90345
 file_type: application/pdf
 learning_resource_types: []
