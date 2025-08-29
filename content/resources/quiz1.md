@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz 1
-file: /courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/951920fe769b7c662fa6ab63875a5752_quiz1.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/951920fe769b7c662fa6ab63875a5752_quiz1.pdf
 file_size: 384081
 file_type: application/pdf
 learning_resource_types:
